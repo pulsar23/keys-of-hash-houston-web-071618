@@ -6,7 +6,9 @@ class Hash
     self.each do |key, value|
       puts "key = #{key}, value = #{value}"
       arguments.each do |element|
-        
+        if value == element
+          
+      end
       end
     end
     
