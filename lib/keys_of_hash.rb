@@ -5,6 +5,6 @@ class Hash
     
     
     
-    
+  arguments  
   end
 end
