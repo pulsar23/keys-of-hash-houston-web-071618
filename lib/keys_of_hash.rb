@@ -3,6 +3,9 @@ class Hash
     # Returns an Array
     puts "arguments = #{arguments}"
     
+    new_array = []
+    
+    
     
     
     
