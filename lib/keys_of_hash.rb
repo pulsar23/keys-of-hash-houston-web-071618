@@ -11,11 +11,6 @@ class Hash
         end
       end
     end
-    
-    
-    
-    
-    
-  arguments  
   end
+  new_array
 end
