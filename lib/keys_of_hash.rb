@@ -8,9 +8,9 @@ class Hash
       arguments.each do |element|
         if value == element
           new_array.push(key)
-        end
-      end
-    end
-  end
-  new_array
-end
+        end #if 
+      end #arguments.each
+    end #self.each
+    new_array
+  end #keys_of
+end #class Hash
