@@ -3,7 +3,7 @@ class Hash
     # Returns an Array
     
     
-    array = *arguments
+    
     
     
   end
