@@ -8,7 +8,7 @@ class Hash
       arguments.each do |element|
         if value == element
           new_array.push(key)
-      end
+        end
       end
     end
     
