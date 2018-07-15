@@ -4,6 +4,8 @@ class Hash
     puts "arguments = #{arguments}"
     new_array = []
     self.each do |key, value|
+      puts "key = #{key}, value = #{value}"
+    end
     
     
     
