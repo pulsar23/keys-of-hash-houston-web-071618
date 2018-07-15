@@ -1,5 +1,10 @@
 class Hash
   def keys_of(arguments)
-    # code goes here
+    # Returns an Array
+    
+    
+    array = *arguments
+    
+    
   end
 end
