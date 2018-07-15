@@ -7,7 +7,7 @@ class Hash
       puts "key = #{key}, value = #{value}"
       arguments.each do |element|
         if value == element
-          
+          new_array.push(key)
       end
       end
     end
